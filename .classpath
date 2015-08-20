@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/jopt-simple-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/kafka_2.10-0.8.2.0.jar" sourcepath="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/kafka_2.10-0.8.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/kafka_2.10-0.8.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/kafka_2.10-0.8.2.0-scaladoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/kafka_2.10-0.8.2.0-test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/kafka-clients-0.8.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/lz4-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/scala-library-2.10.4.jar" sourcepath="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/scala-library-2.10.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/snappy-java-1.1.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/zkclient-0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neusoft/Downloads/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0 (1)/kafka_2.10-0.8.2.0/libs/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
